@@ -1,4 +1,5 @@
 # EZ GRIND
+![Uploading image.png…]()
 
 **EZ GRIND** adalah aplikasi productivity planner local-first untuk mengelola project Web3, task, wallet publik, deadline, event kalender, serta pemasukan dan pengeluaran dalam satu workspace.
 
