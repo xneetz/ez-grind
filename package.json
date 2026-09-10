@@ -1,0 +1,12 @@
+{
+  "name": "ez-grind",
+  "version": "1.9.45",
+  "private": true,
+  "description": "Ez Grind local-first project operations OS",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
